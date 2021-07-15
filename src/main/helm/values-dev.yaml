@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-4ubyb.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  namespace: devx-helloworld-springboot-4ubyb-service-dev
+  image:
+    name: uswest2fpmt.jfrog.io/devx-helloworld-springboot-4ubyb-docker-dev-local/devx-helloworld-springboot-4ubyb
+    tag: v0.0.1
